@@ -9,6 +9,8 @@ Both notebooks use `Fraud Detection Dataset.csv` (51,000 transactions, 12 column
 
 Case study: `Cosmos_Bank_Cyber_Heist_Report.docx`
 
+Neo4j assignment: `neo4j assignment/` has the Cypher script (`social_network_saved_cypher.csv`) and screenshots of the queries (`query1-9.png`) and exercises (`exercise1-16.png`).
+
 ## Run
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn jupyter
